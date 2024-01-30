@@ -23,7 +23,7 @@ oyunu oynamak için:https://play.unity.com/mg/other/webgl-builds-388549
 
 ![Ekran görüntüsü 2024-01-30 134322](https://github.com/esmanureral/Challange2-Play-Fetch/assets/123326184/f50d0357-c575-47c6-94bc-4d1ad53593e4)
 
-4) Rastgele top oluşturmak onları random konumlarda düşmesini sağlamak.
+4) **_Rastgele top oluşturmak onları random konumlarda düşmesini sağlamak._**
 
   
    ![Ekran görüntüsü 2024-01-30 134808](https://github.com/esmanureral/Challange2-Play-Fetch/assets/123326184/fd858f93-0e0e-42f7-993d-f07274a449fc)
