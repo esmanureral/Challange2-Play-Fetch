@@ -1,4 +1,4 @@
-# Challange2-Play-Fetch
+# Challange2-Play Fetch
 Patika "Unity junior programmer" eğitimimdeki ikinci görevim.
 
 oyunu oynamak için:https://play.unity.com/mg/other/webgl-builds-388549
