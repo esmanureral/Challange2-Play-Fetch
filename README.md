@@ -26,12 +26,12 @@ oyunu oynamak için:https://play.unity.com/mg/other/webgl-builds-388549
 4) **_Rastgele top oluşturmak onları random konumlarda düşmesini sağlamak._**
 
   
-   ![Ekran görüntüsü 2024-01-30 134808](https://github.com/esmanureral/Challange2-Play-Fetch/assets/123326184/fd858f93-0e0e-42f7-993d-f07274a449fc)
+![Ekran görüntüsü 2024-01-30 134808](https://github.com/esmanureral/Challange2-Play-Fetch/assets/123326184/fd858f93-0e0e-42f7-993d-f07274a449fc)
 
 
 5) **_Tuşa basılınca köpek yollamak_**
 
-   ![Ekran görüntüsü 2024-01-30 134954](https://github.com/esmanureral/Challange2-Play-Fetch/assets/123326184/2ade60f0-1b9c-4b7b-b884-9b0031697e27)
+![Ekran görüntüsü 2024-01-30 134954](https://github.com/esmanureral/Challange2-Play-Fetch/assets/123326184/2ade60f0-1b9c-4b7b-b884-9b0031697e27)
 
 6) **_Köpekler ve toplar çarpıştıklarında silinmeleri_**
 
